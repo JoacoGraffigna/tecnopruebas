@@ -113,10 +113,11 @@ header h1{
 .carousel-inner{
    max-height: 600px;
    border-radius: 5px;
-   
 }
 
 .carousel-inner img{
    max-height: 600px;
+   border-bottom: 2px white solid;
+   border-top: 2px white solid;
 }
 
